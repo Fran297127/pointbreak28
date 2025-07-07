@@ -5,6 +5,4 @@
 - Unit tests
 - Integration tests
 - Mockito
-- JACOCO Coverage reportsmnm jjhk
-n,mn,
-kjl
+- JACOCO Coverage reports
